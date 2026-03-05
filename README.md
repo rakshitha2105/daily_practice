@@ -5,3 +5,6 @@ I started my coding journey.
 
 DAY - 2
 Implemented simple calculator using functions and if - else.
+
+Day - 3
+Implemented simple studeent drade tracker
