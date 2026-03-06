@@ -8,3 +8,6 @@ Implemented simple calculator using functions and if - else.
 
 Day - 3
 Implemented simple studeent grade tracker
+
+Day - 4
+today, i created a ATM machine model using loops and conditional statements.
