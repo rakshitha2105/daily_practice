@@ -13,3 +13,6 @@ Day - 4
 today, i created a ATM machine model.
 using loops and conditional statements.
 
+DAY - 5
+Today, i implemented a hotel billing system(HBS).
+Using Oops and function.
