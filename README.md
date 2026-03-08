@@ -16,3 +16,6 @@ using loops and conditional statements.
 DAY - 5
 Today, i implemented a hotel billing system(HBS).
 Using Oops and function.
+
+DAY - 6
+today, i summarise all things.
