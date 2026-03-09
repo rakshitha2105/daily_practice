@@ -20,3 +20,5 @@ Using Oops and function.
 DAY - 6
 today, i summarise all things.
 And started to - do list project
+
+DAY - 7
