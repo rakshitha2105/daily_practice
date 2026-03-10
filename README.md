@@ -22,3 +22,5 @@ today, i summarise all things.
 And started to - do list project
 
 DAY - 7
+today, i research about librarys.
+And learned something about it.
