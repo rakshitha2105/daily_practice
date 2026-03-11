@@ -24,3 +24,6 @@ And started to - do list project
 DAY - 7
 today, i research about librarys.
 And learned something about it.
+
+DAY - 8
+Today i am start DSA with python practice.
