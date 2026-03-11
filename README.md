@@ -27,3 +27,4 @@ And learned something about it.
 
 DAY - 8
 Today i am start DSA with python practice.
+And learn about arreys basic.
