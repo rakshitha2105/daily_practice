@@ -28,3 +28,15 @@ And learned something about it.
 DAY - 8
 Today i am start DSA with python practice.
 And learn about arreys basic.
+
+DAY-9
+PYTHON WITH DSA PRACTICE
+
+Today I practiced some basic Data Structures and Algorithms concepts using Python lists.
+Topics I practiced:
+Loop through a list
+Find the largest element in a list
+Reverse a list
+Count occurrences of a number in a list
+Search for an element in a list
+Find the sum of elements in a list
