@@ -50,3 +50,19 @@ Today I practiced array problems:
 - Finding both smallest and largest in one loop
 - Finding the second largest number
 These problems helped me understand comparison logic and looping through lists.
+
+DAY3 DSA i was omplete todayitself
+
+i am practiced more array/list operations and logic building.
+
+Topics covered:
+
+* Reverse a list using a loop
+* Find even numbers in a list
+* Find odd numbers in a list
+* Filter numbers based on a condition (greater than a value)
+* Insert an element into a list
+* Remove an element from a list
+* Swap first and last elements of a list
+This practice helped me understand loops, conditions, and how to manipulate lists step by step.
+
