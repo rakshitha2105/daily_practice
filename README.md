@@ -41,3 +41,12 @@ Count occurrences of a number in a list
 Search for an element in a list
 Find the sum of elements in a list
 
+DAY - 2 
+Python DSA Practice
+
+Today I practiced array problems:
+- Finding the smallest number
+- Finding the largest number
+- Finding both smallest and largest in one loop
+- Finding the second largest number
+These problems helped me understand comparison logic and looping through lists.
