@@ -72,3 +72,6 @@ Topics covered:
 * Finding the index of an element
 * Using break to stop the loop after finding an element
 * Counting how many times a number appears in a list
+
+
+* Restarted DSA after a short break and continued my learing journey
