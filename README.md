@@ -74,4 +74,4 @@ Topics covered:
 * Counting how many times a number appears in a list
 
 
-* Restarted DSA after a short break and continued my learing journey
+* Restarted DSA after a short break and continued my learing journey.
