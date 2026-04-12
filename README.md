@@ -85,3 +85,5 @@ Topics covered:
 * But i will stay active in the coming days.
 
 * i did some hashing problems.
+* that is: 1.longest consecutive sequence
+* 2.first non-repeating element
