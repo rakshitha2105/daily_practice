@@ -83,3 +83,5 @@ Topics covered:
   and i complete HASHING also
   but i am little busy so i can't active in github.
 * But i will stay active in the coming days.
+
+* i did some hashing problems.
