@@ -87,3 +87,5 @@ Topics covered:
 * i did some hashing problems.
 * that is: 1.longest consecutive sequence
 * 2.first non-repeating element
+
+* Today i learnt first repeating element and i learned how to find duplicates usung hashing
