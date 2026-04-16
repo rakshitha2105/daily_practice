@@ -89,4 +89,6 @@ Topics covered:
 * 2.first non-repeating element
 
 * Today i learnt first repeating element and i learned how to find duplicates usung hashing.
-* Also i learned that Sliding Window 
+* Also i learned that Sliding Window
+
+* i just revised DSA arrays.
