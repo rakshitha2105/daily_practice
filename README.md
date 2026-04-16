@@ -92,3 +92,4 @@ Topics covered:
 * Also i learned that Sliding Window
 
 * i just revised DSA arrays.
+* kadane's algorithm
