@@ -95,3 +95,4 @@ Topics covered:
 * kadane's algorithm
 
 * today i am revised DSA hashing.
+* solve some problems in hashing.
