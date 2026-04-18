@@ -94,5 +94,7 @@ Topics covered:
 * i just revised DSA arrays.
 * kadane's algorithm
 
-* today i am revised DSA hashing.
+* today i revised DSA hashing.
 * solve some problems in hashing.
+
+* today i revised sliding.
