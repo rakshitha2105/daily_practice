@@ -99,3 +99,7 @@ Topics covered:
 
 * today i revised sliding.
 * muximum sum of sub arrays(Using sliding)
+
+* Today i did some problems.
+* like First non-repeating element, Remove spaces
+
