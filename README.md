@@ -101,5 +101,5 @@ Topics covered:
 * muximum sum of sub arrays(Using sliding)
 
 * Today i did some problems.
-* like First non-repeating element, Remove spaces
+* like First non-repeating element, Remove spaces.
 
