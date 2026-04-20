@@ -103,4 +103,4 @@ Topics covered:
 * Today i did some problems.
 * like First non-repeating element, Remove spaces.
 
-* leader in array
+* leader in array.
